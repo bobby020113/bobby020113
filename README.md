@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-bobby020113/bobby020113 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+bobby020113/bobby020113 is a ✨ special README.md` (this file) appears on your GitHub profile.
 You can click the5 Preview link to take a look at your changes.
 --->
